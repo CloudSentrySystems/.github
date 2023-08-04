@@ -7,9 +7,13 @@
 
 ### Problem Domain
 
+Your team has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
+
 <br>
 
 ### About Cloud Sentry Systems
+
+Created in the summer of 2023. Cloud Sentry Systems aims to provide customers simple and straight forward data and infrastructure security. With 24/7 monitoring, testing and implementation of cloud security services, our customers can have their cake and eat it too.
 
 <br>
 
