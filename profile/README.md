@@ -13,7 +13,7 @@
 
 <br>
 
-### GXTechnic Team Members
+### Cloud Sentry Systems Team Members
 
 | Jonathan | Robert Gillespie | Dustin Haggett | Marcelo Clark | Raphael Chookagian |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|
