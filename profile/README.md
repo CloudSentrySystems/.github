@@ -1,4 +1,4 @@
-![SentryT](../assets/SentryTux.png)
+![SentryTux](../assets/SentryTux.png)
 
 ## Welcome to Cloud Sentry Systems
 
